@@ -22,6 +22,7 @@ logs/*
 data/
 *.pt
 *.jpg
+**/.DS_Store
 
 #Config
 config/config.yaml
