@@ -20,3 +20,8 @@ logs/*
 
 # Data
 data/
+*.pt
+*.jpg
+
+#Config
+config/config.yaml

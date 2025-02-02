@@ -1,0 +1,6 @@
+camera_index: 0
+model_path: "models/yolov8n.pt"
+confidence_threshold: 0.6
+notification_cooldown: 300  # 5 minutes
+telegram_bot_token: "YOUR_BOT_TOKEN"
+telegram_chat_id: "YOUR_CHAT_ID"
